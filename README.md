@@ -8,7 +8,7 @@ NOTE: There is no encoding error, stop submitting bug reports about it.<br />
 
 #解法:
 1下載我們題目的圖片<br />
-![image]https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051540/1.bmp<br />
+![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051540/1.bmp)<br />
 2.使用hexedit來檢查圖像中的內容<br />
 [HXD下載](https://mh-nexus.de/en/downloads.php?product=HxD20)<br />
 3.根據提示(2 null bytes)得到我們要找的編碼 <br />
