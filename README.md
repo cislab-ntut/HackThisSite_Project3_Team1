@@ -9,11 +9,11 @@ NOTE: There is no encoding error, stop submitting bug reports about it.<br />
 #解法:
 1下載我們題目的圖片<br />
 ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051540/1.bmp)<br />
-2.使用hexedit來檢查圖像中的內容<br />
-[HXD下載](https://mh-nexus.de/en/downloads.php?product=HxD20)<br />
-3.根據提示(2 null bytes)得到我們要找的編碼 <br />
-4.根據最低有效位(LSB)我們將16和17轉換為二進制，其中16將為0(偶數)，17將為1(奇數)<br />
-5.我們將等於1個字節的每個8位部分劃分為ASCII字符。但是由於二進製字符串的長度為55，因此必須在某處缺少二進製字符串 ” 0 ” 或“ 1”。<br />
+2.使用hexedit來檢查圖像中的內容<br /><br />
+[HXD下載](https://mh-nexus.de/en/downloads.php?product=HxD20)<br /><br />
+3.根據提示(2 null bytes)得到我們要找的編碼 <br /><br />
+4.根據最低有效位(LSB)我們將16和17轉換為二進制，其中16將為0(偶數)，17將為1(奇數)<br /><br />
+5.我們將等於1個字節的每個8位部分劃分為ASCII字符。但是由於二進製字符串的長度為55，因此必須在某處缺少二進製字符串 ” 0 ” 或“ 1”。<br /><br />
 6.最後我們得到答案     <br />                                                                
                                                                            0 0 1 1 1 0 0 0 <br />
                                                                            0 1 1 0 0 1 1 0 <br />
