@@ -53,6 +53,22 @@ NOTE: There is no encoding error, stop submitting bug reports about it.<br />
   ![Image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051555/p9.png)<br />
   將密文輸入題目輸入框，按確認按鈕，pass。<br />
 
+#1051335 謝逸德
+---------------------------------------
+#題目: stego mission 2<br />
+[題目連結](https://www.hackthissite.org/missions/playit/stego/2)<br />
 
-
-
+1.題目僅有<br /><br />
+    did I hear that correctly?<br />
+    Thank you tiksi<br /><br />
+  和一個詭異的音檔<br />
+  ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051335/圖片1.png)<br />
+2.下載題目的音檔，並使用聲道編輯軟體開啟
+  ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051335/圖片2.png)<br />
+3.選擇新增頻譜圖
+  ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051335/圖片3.png)<br />
+4.發現開出的頻譜圖之中有一字串的模樣
+  ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051335/圖片4.png)<br />
+5.嘗試輸入該字串，即為密碼
+  ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051335/圖片5.png)<br /> 
+  ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051335/圖片6.png)<br />
