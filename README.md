@@ -29,7 +29,6 @@ NOTE: There is no encoding error, stop submitting bug reports about it.<br />
 ---------------------------------------
 #題目: stego mission 3<br />
 [題目連結](https://www.hackthissite.org/missions/playit/stego/3)<br />
- Hackthissite   Stago Mission 3  1051555 余洪楓<br />
  ![Image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051555/p1.png)<br />
  
  題目提供了一張灰色的圖片，一個答案輸入框以及確認按鈕。<br />
