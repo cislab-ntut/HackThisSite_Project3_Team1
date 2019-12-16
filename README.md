@@ -59,7 +59,7 @@ NOTE: There is no encoding error, stop submitting bug reports about it.<br />
 [題目連結](https://www.hackthissite.org/missions/playit/stego/2)<br />
 
 1.題目僅有<br /><br />
-    did I hear that correctly?<br />
+  &nbsp  did I hear that correctly?<br />
     Thank you tiksi<br /><br />
   和一個詭異的音檔<br />
   ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051335/圖片1.png)<br />
