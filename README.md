@@ -82,13 +82,13 @@ NOTE: There is no encoding error, stop submitting bug reports about it.<br />
 1.題目僅有<br /><br />
    I am being hexed!.<br />
    一個加密過的驗證碼<br />
-      ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051333/螢幕擷取畫面 (3).png)<br />
+      ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051333/螢幕擷取畫面(3).png)<br />
 2.將驗證碼轉成16進制，並輸入(發現error)<br />
 3.另存圖檔，將圖檔在hex編輯器打開<br />
   [HXD下載](https://mh-nexus.de/en/downloads.php?product=HxD20)<br /><br />
-4.發現解密過的密碼<br />
+4.發現解密過的密碼<br /><br />
       ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051333/圖片1.png)<br />
-5.將密碼轉成ASCII
+5.將密碼轉成ASCII<br /><br />
       ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051333/圖片2.png)<br />
-6.輸入密碼(成功)
+6.輸入密碼(成功)<br /><br />
       ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051333/圖片3.png)<br />
