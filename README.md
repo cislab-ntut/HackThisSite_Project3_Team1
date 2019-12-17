@@ -82,7 +82,6 @@ NOTE: There is no encoding error, stop submitting bug reports about it.<br />
 1.題目僅有<br /><br />
    I am being hexed!.<br />
    一個加密過的驗證碼<br />
-      ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051333/螢幕擷取畫面 (3).png)<br />
 2.將驗證碼轉成16進制，並輸入(發現error)<br />
 3.另存圖檔，將圖檔在hex編輯器打開<br />
   [HXD下載](https://mh-nexus.de/en/downloads.php?product=HxD20)<br /><br />
