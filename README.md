@@ -105,7 +105,7 @@ NOTE: There is no encoding error, stop submitting bug reports about it.<br />
 5.利用摩斯密碼進行解密<br /><br />
 ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051327-stego/線上摩斯直譯器.png)<br />
 6.將各數字利用Ascii Table 轉成英文字母<br /><br />
-![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051327-stego/Ascii Table轉換.gif)<br />
+![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051327-stego/Ascii_Table轉換.gif)<br />
 7.得到解密結果<br /><br />
 k8x0w5bbuq<br />
 
