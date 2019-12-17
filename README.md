@@ -91,3 +91,23 @@ NOTE: There is no encoding error, stop submitting bug reports about it.<br />
       ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051333/圖片2.png)<br />
 6.輸入密碼(成功)<br /><br />
       ![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051333/圖片3.png)<br />
+      
+#1051327 厲威槿
+-----------------------------
+#題目: stego mission 9<br /><br />
+1.題目只提供一個音檔<br /><br />
+![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051327-stego/題目截圖.jpg)<br />
+2.下載sonic visualizer
+3.新增光譜層<br /><br />
+![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051327-stego/新增光譜層.png)<br />
+4.放大檢視<br /><br />
+![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051327-stego/放大檢視.png)<br />
+5.利用摩斯密碼進行解密<br /><br />
+![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051327-stego/線上摩斯直譯器.png)<br />
+6.將各數字利用Ascii Table 轉成英文字母<br /><br />
+![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/1051327-stego/Ascii Table轉換.gif)<br />
+7.得到解密結果<br /><br />
+k8x0w5bbuq<br />
+
+
+   
