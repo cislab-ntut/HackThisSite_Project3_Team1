@@ -109,5 +109,17 @@ NOTE: There is no encoding error, stop submitting bug reports about it.<br />
 7.得到解密結果<br /><br />
 k8x0w5bbuq<br />
 
+# 1051318 鍾北璽
 
-   
+------------------------------
+
+1.題目只提供一個圖檔<br /><br />
+![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/stego7/%E6%93%B7%E5%8F%96.PNG)<br />
+2.下載圖檔
+3.丟入Hex Editor後發現有被Photoshop修改的痕跡<br /><br />
+![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/stego7/%E6%93%B7%E5%8F%962.PNG)<br />
+4.進入P圖軟體，可以看到有三層layer<br /><br />
+![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/stego7/%E5%9C%96%E7%89%871.png)<br />
+5.關閉layer1即是密文<br /><br />
+![image](https://github.com/cislab-yzu/Project1-3_Hackthissite/blob/master/stego7/%E5%9C%96%E7%89%872.png)<br />
+
